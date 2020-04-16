@@ -17,8 +17,8 @@
 #      path: /h2-console
 
 #server properties for AWS elastic bean stack
-server:
-  port: 8080
+# server:
+  # port: 8080
 
 
 spring:
