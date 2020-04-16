@@ -35,8 +35,8 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.MySQL5Dialect
 
-  application:
-    name: movieloadservice
+  # application:
+    # name: movieloadservice
   profiles:
     active: default
 
